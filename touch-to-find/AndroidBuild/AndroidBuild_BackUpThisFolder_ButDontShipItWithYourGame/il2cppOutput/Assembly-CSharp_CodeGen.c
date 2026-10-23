@@ -1,0 +1,49 @@
+﻿#include "pch-c.h"
+
+
+#include "codegen/il2cpp-codegen-metadata.h"
+
+
+
+
+
+extern void WimmelbildController_Awake_m9CEEEA02CB42DE6252E1634AD00AD9DDEECCDF46 (void);
+extern void WimmelbildController_Update_m7932ACB493276577DB5C4B99EF0E5C9F59D96F85 (void);
+extern void WimmelbildController_HandleMouseInput_m236CE0397CD9F11415CF24B3359412AE53EE860A (void);
+extern void WimmelbildController_HandleTouchInput_m35DA272987F8573E68FB4CC5A2DD5FA02167840A (void);
+extern void WimmelbildController_BeginPointerInteraction_m1265C80DB529614529939221A6214ECAB9965275 (void);
+extern void WimmelbildController_UpdatePointerInteraction_m3BF5A5796FA8B7431590EF1CD3697F81B40CAF10 (void);
+extern void WimmelbildController_EndPointerInteraction_m99CB22D96310DD24B639F47CDB7CA55AFEDFC7B2 (void);
+extern void WimmelbildController_ZoomAtPosition_mFD689656354C544F774E508EC8217D339DD5FB58 (void);
+extern void WimmelbildController_ClampCameraToImage_mE0ED7241154B270246A03CA9F3DC0C5AE6EFBE87 (void);
+extern void WimmelbildController_CheckWaldo_m9193A26DCD6A918FE04D511786220044C0428A7F (void);
+extern void WimmelbildController__ctor_m08C0B4AC59B0259EE17691FA6881E1CCA0CDE45F (void);
+static Il2CppMethodPointer s_methodPointers[11] = 
+{
+	WimmelbildController_Awake_m9CEEEA02CB42DE6252E1634AD00AD9DDEECCDF46,
+	WimmelbildController_Update_m7932ACB493276577DB5C4B99EF0E5C9F59D96F85,
+	WimmelbildController_HandleMouseInput_m236CE0397CD9F11415CF24B3359412AE53EE860A,
+	WimmelbildController_HandleTouchInput_m35DA272987F8573E68FB4CC5A2DD5FA02167840A,
+	WimmelbildController_BeginPointerInteraction_m1265C80DB529614529939221A6214ECAB9965275,
+	WimmelbildController_UpdatePointerInteraction_m3BF5A5796FA8B7431590EF1CD3697F81B40CAF10,
+	WimmelbildController_EndPointerInteraction_m99CB22D96310DD24B639F47CDB7CA55AFEDFC7B2,
+	WimmelbildController_ZoomAtPosition_mFD689656354C544F774E508EC8217D339DD5FB58,
+	WimmelbildController_ClampCameraToImage_mE0ED7241154B270246A03CA9F3DC0C5AE6EFBE87,
+	WimmelbildController_CheckWaldo_m9193A26DCD6A918FE04D511786220044C0428A7F,
+	WimmelbildController__ctor_m08C0B4AC59B0259EE17691FA6881E1CCA0CDE45F,
+};
+IL2CPP_EXTERN_C const Il2CppCodeGenModule g_AssemblyU2DCSharp_CodeGenModule;
+const Il2CppCodeGenModule g_AssemblyU2DCSharp_CodeGenModule = 
+{
+	"Assembly-CSharp.dll",
+	11,
+	s_methodPointers,
+	0,
+	NULL,
+	0,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+};
